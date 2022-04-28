@@ -7,7 +7,7 @@ Choose you favorite way of programming your [Exo Sense RP](https://www.sferalabs
 Repository: https://github.com/sfera-labs/exo-sense-rp-arduino
 
 Use the simplicity of the Arduino IDE to write your powerful firmware.    
-This repo contains the most complete set of utilities and examples for programming Exo Sense RP, as well as ready-to-use applications like the [Modbus RTU Slave app](https://github.com/sfera-labs/exo-sense-rp-arduino/tree/master/examples/ExoSenseModbusRtu).
+This repo contains the most complete set of utilities and examples for programming Exo Sense RP, as well as advanced functionalities like [Sound Level analysis](https://github.com/sfera-labs/knowledge-base/blob/main/soundeval/equivalent-continuous-sound-level-leq.md) and ready-to-use applications like the [Modbus RTU Slave app](https://github.com/sfera-labs/exo-sense-rp-arduino/tree/master/examples/ExoSenseModbusRtu) to use Exo as a standard Modbus device.
 
 ## Raspberry Pi Pico C/C++ SDK
 
